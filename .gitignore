@@ -1,0 +1,31 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Log files
+*.log
+
+# CMake and Build Artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.suo
+*.sln
+*.user
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
